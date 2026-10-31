@@ -1,0 +1,32 @@
+{"method": "PATT-rank-exchange", "mask": "mcar", "seed": 31, "test_nmse": 0.00012719141352457477, "success": 1, "ranks": [2, 4, 2, 2], "exchanges": [[0, 1], [0, 1]], "runtime": 0.4174878690000696, "error": null}
+{"method": "Tucker-ALS", "mask": "mcar", "seed": 31, "test_nmse": 0.22558973613408714, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.16054295799995089, "error": null}
+{"method": "Tucker-ALS-24", "mask": "mcar", "seed": 31, "test_nmse": 0.22923516890321366, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.5838867340003162, "error": null}
+{"method": "Tucker-HOSVD+ALS", "mask": "mcar", "seed": 31, "test_nmse": 0.2283063322580267, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.20610290400009035, "error": null}
+{"method": "PATT-rank-exchange", "mask": "mcar", "seed": 32, "test_nmse": 3.7303322564944744e-05, "success": 1, "ranks": [2, 4, 2, 2], "exchanges": [[0, 1], [0, 1]], "runtime": 0.43825765600013256, "error": null}
+{"method": "Tucker-ALS", "mask": "mcar", "seed": 32, "test_nmse": 0.25497157966300926, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.1516871470003025, "error": null}
+{"method": "Tucker-ALS-24", "mask": "mcar", "seed": 32, "test_nmse": 0.257913786682776, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.6099338960002569, "error": null}
+{"method": "Tucker-HOSVD+ALS", "mask": "mcar", "seed": 32, "test_nmse": 0.2533810986803022, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.22036156400008622, "error": null}
+{"method": "PATT-rank-exchange", "mask": "mcar", "seed": 33, "test_nmse": 9.681313412208498e-05, "success": 1, "ranks": [2, 4, 2, 2], "exchanges": [[0, 1], [0, 1]], "runtime": 0.43993323499989856, "error": null}
+{"method": "Tucker-ALS", "mask": "mcar", "seed": 33, "test_nmse": 0.1368951598542648, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.15110291300015888, "error": null}
+{"method": "Tucker-ALS-24", "mask": "mcar", "seed": 33, "test_nmse": 0.13638086340418265, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.5821856849997857, "error": null}
+{"method": "Tucker-HOSVD+ALS", "mask": "mcar", "seed": 33, "test_nmse": 0.13643614755439848, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.2234855530000459, "error": null}
+{"method": "PATT-rank-exchange", "mask": "mcar", "seed": 34, "test_nmse": 0.00010117395665001211, "success": 1, "ranks": [2, 4, 2, 2], "exchanges": [[0, 1], [0, 1]], "runtime": 0.42899671200029843, "error": null}
+{"method": "Tucker-ALS", "mask": "mcar", "seed": 34, "test_nmse": 0.11391616832422148, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.14919371400037562, "error": null}
+{"method": "Tucker-ALS-24", "mask": "mcar", "seed": 34, "test_nmse": 0.11389016625752842, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.5965345390000039, "error": null}
+{"method": "Tucker-HOSVD+ALS", "mask": "mcar", "seed": 34, "test_nmse": 0.113874362580238, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.20321346099990478, "error": null}
+{"method": "PATT-rank-exchange", "mask": "block", "seed": 31, "test_nmse": 0.27059821701410214, "success": 0, "ranks": [2, 4, 2, 2], "exchanges": [[0, 1], [0, 1]], "runtime": 0.45422243000029994, "error": null}
+{"method": "Tucker-ALS", "mask": "block", "seed": 31, "test_nmse": 3.893437105427864, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.15385613899979944, "error": null}
+{"method": "Tucker-ALS-24", "mask": "block", "seed": 31, "test_nmse": 0.21861139453780598, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.5769223880001846, "error": null}
+{"method": "Tucker-HOSVD+ALS", "mask": "block", "seed": 31, "test_nmse": 0.2139085817134983, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.20767761399974916, "error": null}
+{"method": "PATT-rank-exchange", "mask": "block", "seed": 32, "test_nmse": 0.00022275196520899924, "success": 1, "ranks": [2, 4, 2, 2], "exchanges": [[0, 1], [0, 1]], "runtime": 0.4642913820002832, "error": null}
+{"method": "Tucker-ALS", "mask": "block", "seed": 32, "test_nmse": 0.29098724801635983, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.18467168699999092, "error": null}
+{"method": "Tucker-ALS-24", "mask": "block", "seed": 32, "test_nmse": 0.31161891035672235, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.6052759670001251, "error": null}
+{"method": "Tucker-HOSVD+ALS", "mask": "block", "seed": 32, "test_nmse": 0.3120471707584081, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.21229702999971778, "error": null}
+{"method": "PATT-rank-exchange", "mask": "block", "seed": 33, "test_nmse": 0.003067517928078204, "success": 0, "ranks": [2, 4, 2, 2], "exchanges": [[0, 1], [0, 1]], "runtime": 0.4333850419998271, "error": null}
+{"method": "Tucker-ALS", "mask": "block", "seed": 33, "test_nmse": 0.40493792173065873, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.15030661900027553, "error": null}
+{"method": "Tucker-ALS-24", "mask": "block", "seed": 33, "test_nmse": 0.42247347259630774, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.5757940359999338, "error": null}
+{"method": "Tucker-HOSVD+ALS", "mask": "block", "seed": 33, "test_nmse": 0.5006072009685825, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.21031380999966132, "error": null}
+{"method": "PATT-rank-exchange", "mask": "block", "seed": 34, "test_nmse": 0.03005481034752278, "success": 0, "ranks": [2, 4, 2, 2], "exchanges": [[0, 1], [0, 1]], "runtime": 0.4210080889997698, "error": null}
+{"method": "Tucker-ALS", "mask": "block", "seed": 34, "test_nmse": 0.542967660257475, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.15006957100013096, "error": null}
+{"method": "Tucker-ALS-24", "mask": "block", "seed": 34, "test_nmse": 0.4151399107435245, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.5766086379999251, "error": null}
+{"method": "Tucker-HOSVD+ALS", "mask": "block", "seed": 34, "test_nmse": 0.4346748674366479, "success": 0, "ranks": [4, 2, 2, 2], "exchanges": [], "runtime": 0.19177126899967334, "error": null}

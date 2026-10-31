@@ -1,0 +1,9 @@
+rank_setup,order,n,patt_only,als_only,both,neither,mcnemar_exact_p
+wrong,3,12,2,0,0,10,0.5
+wrong,4,12,10,0,0,2,0.001953125
+wrong,5,12,10,0,0,2,0.001953125
+wrong,6,12,10,0,0,2,0.001953125
+correct,3,12,0,0,4,8,1.0
+correct,4,12,0,0,12,0,1.0
+correct,5,12,2,0,8,2,0.5
+correct,6,12,0,0,12,0,1.0
